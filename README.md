@@ -1,6 +1,6 @@
 # EDA-on-superstore
 Consider this is the data of an supermarket, and we are exploring the dataset to understand the sales. libraries which are used in this  project such as Pandas, NumPy, Seaborn. matplotlib 
-Consider this is the data of your own supermarket, and you are exploring the dataset (The dataset is given at the end of Problem Statement) to understand the sales.
+
 
 Part-1: Complete all the basic exploratory steps.
 
